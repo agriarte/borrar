@@ -80,3 +80,4 @@ Repository
 JPA / Hibernate
     ↓
    H2
+```
