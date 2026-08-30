@@ -70,7 +70,7 @@ Se incorporan:
 
 La arquitectura pasa a ser:
 
-```text `
+```
 Controller
     ↓
 Service
@@ -79,4 +79,4 @@ Repository
     ↓
 JPA / Hibernate
     ↓
-H2
+H2```
